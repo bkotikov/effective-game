@@ -1,4 +1,4 @@
-import { CtLit, html, property, customElement, css } from '@conectate/ct-lit/ct-lit';
+import { CtLit, html, property, customElement, css } from '@conectate/ct-lit';
 
 
 @customElement('app-login')
